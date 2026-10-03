@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of flatrate/flarum-composer-ui.** Not for installation: use [Packagist](https://packagist.org/packages/flatrate/flarum-composer-ui) or the [upstream repository](https://github.com/mrkcntrmn/flatrate-flarum-composer-ui).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/flatrate-flarum-composer-ui/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.8.19`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/flatrate-flarum-composer-ui/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.8.19`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-09-27 | `^1.8.19` | [Browse](https://github.com/flarchive/flatrate-flarum-composer-ui/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/flatrate-flarum-composer-ui.json](https://github.com/flarchive/archive-index/blob/main/packages/flatrate-flarum-composer-ui.json)
 
